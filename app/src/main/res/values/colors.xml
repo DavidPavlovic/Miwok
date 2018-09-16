@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="colorPrimary">#4A312A</color>
+    <!-- Primary dark color of the app (show in the status bar) -->
+    <color name="colorPrimaryDark">#2F1D1A</color>
+    <!-- Accent color of the app (action color) -->
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- Background color of the app -->
+    <color name="tan_background">#FFF7DA</color>
+    <!-- Background color of the number category -->
+    <color name="category_numbers">#FD8E09</color>
+    <!-- Background color of the number category -->
+    <color name="category_family">#379237</color>
+    <!-- Background color of the number category -->
+    <color name="category_colors">#8800A0</color>
+    <!-- Background color of the number category -->
+    <color name="category_phrases">#16AFCA</color>
+</resources>
